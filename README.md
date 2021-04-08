@@ -18,7 +18,7 @@ sudo docker-compose up
 
 Includes:
 - rcon access
-- Some awkward server.cfg options in (https://github.com/lucasgcb/zm_reborn_server/blob/master/install-zm.sh#L5-L9)
+- Some awkward af server.cfg options example in the [install](https://github.com/lucasgcb/zm_reborn_server/blob/master/install-zm.sh#L5-L9)
 - [zmr-map-config](https://github.com/zm-reborn/zmr-map-configs/)
 
 Is Missing:
