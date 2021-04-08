@@ -17,7 +17,7 @@ sudo docker-compose up
 3. The server should be running on port 27015.
 
 Includes:
-- .so file symlink fixes for srcsd
+- .so file symlink fixes for srcds
 - rcon access
 - Some awkward af server.cfg options example in the [install](https://github.com/lucasgcb/zm_reborn_server/blob/master/install-zm.sh#L5-L9)
 - [zmr-map-config](https://github.com/zm-reborn/zmr-map-configs/)
