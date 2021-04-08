@@ -11,7 +11,7 @@ Dockerfile for deploying Ubuntu based [Zombie Master Reborn](https://www.moddb.c
 ```
 ./install-zm.sh http://download-link/whatever
 sudo uwf allow 27015
-sudo docker-compose up
+sudo docker-compose up -d
 ```
 
 3. The server should be running on port 27015.
