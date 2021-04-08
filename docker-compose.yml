@@ -1,0 +1,8 @@
+version: '3.0'
+services:
+  zombie:
+    build: ./
+    network_mode: host
+    volumes:
+      - ./zombie_master_reborn/:/home/steam/zm_reborn_server/zombie_master_reborn/
+    entrypoint: ./svr-entrypoint.sh
